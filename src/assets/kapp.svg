@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 132.29166 79.375005"
+   height="300"
+   width="500">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path873" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path4839" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-217.62498)"
+     id="layer1">
+    <ellipse
+       ry="14.795146"
+       rx="12.108165"
+       cy="257.17648"
+       cx="47.266232"
+       id="path834"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88575727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path851"
+       d="m 38.364584,246.72915 -10.583334,-9.26042 -26.458335,1e-5"
+       style="fill:none;stroke:#000000;stroke-width:0.78837264;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4560"
+       d="m 39.6875,269.21873 -10.583333,9.26042 -27.781252,0"
+       style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4562"
+       d="m 10.583332,237.46874 v 10.58333 h 7.9375 v 3.96875"
+       style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4564"
+       d="m 11.906248,248.05207 h -7.9375 v 5.29167"
+       style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0"
+       y="253.34373"
+       x="2.6458321"
+       height="13.229166"
+       width="2.6458335"
+       id="rect4566"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.03387272;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4568"
+       d="m 18.520833,267.89582 -1e-6,3.96875 h -7.9375 v 6.61458"
+       style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4570"
+       d="m 3.968748,266.5729 v 2.64584 2.64583 c 1.967107,-1e-5 4.40845,0 6.614584,0"
+       style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4574"
+       d="m 18.520832,252.02082 c 1.668486,0.55497 3.336341,1.10974 3.336541,1.77085 2e-4,0.66112 -1.667842,1.42936 -3.336541,2.1979"
+       style="fill:none;stroke:#000000;stroke-width:1.07030416;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4574-7"
+       d="m 18.520832,255.98957 c 1.668486,0.55497 3.336341,1.10974 3.336541,1.77085 2e-4,0.66112 -1.667842,1.42936 -3.336541,2.1979"
+       style="fill:none;stroke:#000000;stroke-width:1.07030416;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4574-3"
+       d="m 18.520832,259.95832 c 1.668486,0.55497 3.336341,1.10974 3.336541,1.77085 2.01e-4,0.66112 -1.667842,1.42936 -3.336541,2.1979"
+       style="fill:none;stroke:#000000;stroke-width:1.07030416;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4574-2"
+       d="m 18.520832,263.92707 c 1.668486,0.55497 3.336341,1.10974 3.336541,1.77085 2e-4,0.66112 -1.667842,1.42936 -3.336541,2.1979"
+       style="fill:none;stroke:#000000;stroke-width:1.07030416;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path851-9"
+       d="m 70.114584,246.72915 10.583333,-9.26042 10.583328,1e-5"
+       style="fill:none;stroke:#000000;stroke-width:0.78837264;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4560-1"
+       d="m 68.791667,269.21873 11.90625,9.26042 47.625003,0"
+       style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       ry="0"
+       y="-104.51041"
+       x="236.14583"
+       height="13.229166"
+       width="2.6458333"
+       id="rect4566-2"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.03387272;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4574-0"
+       d="m 108.47916,237.20415 c 0.55497,-1.66848 1.10974,-3.33634 1.77085,-3.33654 0.66112,-2e-4 1.42936,1.66784 2.1979,3.33654"
+       style="fill:none;stroke:#000000;stroke-width:1.07030416;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4681"
+       d="m 104.51041,237.46874 h 3.96875"
+       style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4574-0-3"
+       d="m 112.44791,237.20415 c 0.55497,-1.66848 1.10974,-3.33634 1.77085,-3.33654 0.66112,-2e-4 1.42936,1.66784 2.1979,3.33654"
+       style="fill:none;stroke:#000000;stroke-width:1.07030416;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4574-0-0"
+       d="m 116.41666,237.20415 c 0.55497,-1.66848 1.10974,-3.33634 1.77085,-3.33654 0.66112,-2e-4 1.42936,1.66784 2.1979,3.33654"
+       style="fill:none;stroke:#000000;stroke-width:1.07030416;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4574-0-6"
+       d="m 120.38541,237.20415 c 0.55497,-1.66848 1.10974,-3.33634 1.77085,-3.33654 0.66112,-2e-4 1.42936,1.66784 2.1979,3.33654"
+       style="fill:none;stroke:#000000;stroke-width:1.07030416;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4681-1"
+       d="m 124.35416,237.20415 h 3.96875"
+       style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="236.14581"
+       x="1.3229166"
+       height="2.6458278"
+       width="2.6458335"
+       id="rect5090"
+       style="fill:#000002;fill-opacity:1;stroke:#000000;stroke-width:0.57666606;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="277.15625"
+       x="1.3229166"
+       height="2.6458278"
+       width="2.6458333"
+       id="rect5090-8"
+       style="fill:#000002;fill-opacity:1;stroke:#000000;stroke-width:0.57666606;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="277.15622"
+       x="125.67709"
+       height="2.6458278"
+       width="2.6458333"
+       id="rect5090-7"
+       style="fill:#000002;fill-opacity:1;stroke:#000000;stroke-width:0.57666606;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="236.14581"
+       x="127.00001"
+       height="2.6458278"
+       width="2.6458333"
+       id="rect5090-9"
+       style="fill:#000002;fill-opacity:1;stroke:#000000;stroke-width:0.57666606;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5121"
+       y="261.25357"
+       x="6.7374291"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000100;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#000100;fill-opacity:1;stroke-width:0.26458332"
+         y="261.25357"
+         x="6.7374291"
+         id="tspan5119">Rp</tspan></text>
+    <text
+       id="text5121-2"
+       y="261.35071"
+       x="23.557369"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000100;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#000100;fill-opacity:1;stroke-width:0.26458332"
+         y="261.35071"
+         x="23.557369"
+         id="tspan5119-5">Lp</tspan></text>
+    <ellipse
+       ry="14.795146"
+       rx="12.108165"
+       cy="257.02908"
+       cx="61.658154"
+       id="path834-4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88575727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5121-3"
+       y="246.74873"
+       x="93.766441"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000100;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#000100;fill-opacity:1;stroke-width:0.26458332"
+         y="246.74873"
+         x="93.766441"
+         id="tspan5119-6">Rs</tspan></text>
+    <text
+       id="text5121-7"
+       y="246.79597"
+       x="113.70469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000100;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#000100;fill-opacity:1;stroke-width:0.26458332"
+         y="246.79597"
+         x="113.70469"
+         id="tspan5119-53">Xs</tspan></text>
+    <path
+       id="path866"
+       d="m 37.041668,240.11456 c 6.173928,-3.08696 12.34754,-6.17377 18.300553,-6.17367 5.953013,1.1e-4 11.68565,3.08691 17.418196,6.17367"
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <text
+       id="text5121-2-3"
+       y="232.43552"
+       x="53.606476"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000100;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#000100;fill-opacity:1;stroke-width:0.26458332"
+         y="232.43552"
+         x="53.606476"
+         id="tspan5119-5-6">m</tspan></text>
+  </g>
+</svg>
