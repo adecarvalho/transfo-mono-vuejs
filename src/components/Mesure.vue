@@ -3,8 +3,50 @@
    <v-layout align-center justify-center row fill-height>
        <h1> <span class="titre">Mesures en charge</span></h1> 
     </v-layout>
-    
+
+<!---->
 <v-layout row justify-space-around wrap>
+    <v-flex sm12 md3>
+      <reglage-slider 
+      @onChange="onChangeU1"
+      titre="Tension primaire en Veff"
+      label="U1eff"
+      valeurMin='0'
+      valeurInitiale='0'
+      valeurMax='220'
+      couleur='purple darken-1'>
+      </reglage-slider>
+    </v-flex>
+
+    <v-flex sm12 md3>
+      <reglage-slider 
+      @onChange="onChangeModule"
+      titre="Module de la charge en Ohms"
+      label="Charge"
+      valeurInitiale='500'
+      valeurMin='10'
+      valeurMax='500'
+      couleur='green darken-1'>
+      </reglage-slider>
+    </v-flex>
+
+    <v-flex sm12 md3>
+      <reglage-slider 
+      @onChange="onChangePhase"
+      titre="Phase de la charge en degré"
+      label="Phase"
+      valeurInitiale='0'
+      valeurMin='-45'
+      valeurMax='45'
+      couleur='orange darken-1'>
+      </reglage-slider>
+    </v-flex>
+</v-layout>
+<!---->
+
+
+    
+<!-- <v-layout row justify-space-around wrap>
         <v-flex sm12 md3>
             <v-card>
               <v-subheader class="ma-4 info--text">Tension primaire en Veff</v-subheader>
@@ -55,7 +97,7 @@
               </v-slider>
             </v-card>
       </v-flex>
-  </v-layout>
+  </v-layout> -->
 
 <v-layout row justify-space-around wrap>
   <v-flex sm12 md3>
@@ -91,12 +133,14 @@
 <script>
 import { mapGetters } from "vuex"
 import AfficheurLcd from "@/components/afficheur/AfficheurLcd"
+import ReglageSlider from "@/components/reglage/ReglageSlider"
 
 export default {
 	name: "Mesure",
 
 	components: {
-		AfficheurLcd
+		AfficheurLcd,
+		ReglageSlider
 	},
 
 	data() {
@@ -111,20 +155,29 @@ export default {
 		...mapGetters(["getMesures"])
 	},
 
-	watch: {
-		u1(val) {
+	mounted() {
+		this.load()
+	},
+
+	methods: {
+		onChangeU1(val) {
+			this.u1 = val
 			this.$store.dispatch("setNewU1", val)
 			this.$store.dispatch("process")
 		},
-
-		module(val) {
+		onChangeModule(val) {
+			this.module = val
 			this.$store.dispatch("setNewModule", val)
 			this.$store.dispatch("process")
 		},
-
-		phase(val) {
+		onChangePhase(val) {
+			this.phase = val
 			this.$store.dispatch("setNewPhase", val)
 			this.$store.dispatch("process")
+		},
+
+		load() {
+			this.$store.dispatch("setMesuresReset")
 		}
 	}
 }

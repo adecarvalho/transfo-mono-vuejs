@@ -48,10 +48,23 @@ export default new Vuex.Store({
 
 		SET_PHASE(state, payload) {
 			state.reglages.phase = payload
+		},
+
+		SET_MESURES_RESET(state) {
+			state.mesures.i1 = 0
+			state.mesures.i2 = 0
+			state.mesures.u2 = 0
+			state.mesures.p1 = 0
+			state.mesures.p2 = 0
+			state.rendement = 0
 		}
 	},
 
 	actions: {
+		setMesuresReset({ commit }) {
+			commit("SET_MESURES_RESET")
+		},
+
 		setModeleKapp({ commit }, payload) {
 			commit("SET_MODELE", payload)
 		},
